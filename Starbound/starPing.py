@@ -3,6 +3,8 @@
 '''
 starPing.py - Check the status of a Starbound server by sending a protocol
 request and verifying the server's protocol response with an expected result.
+
+May be run from a shell or imported as a module.
 '''
 
 from __future__ import print_function
