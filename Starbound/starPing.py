@@ -36,7 +36,7 @@ Example good ProtocolResponse packet:
 '''
 
 defaultTimeout = 5
-defaultProtoVer = 729 # The protocol we tell the server we're using.
+defaultProtoVer = 742 # The protocol we tell the server we're using.
 goodResp = b'\x01\x02\x01'
 badPResp = b'\x01\x02\x00'
 
